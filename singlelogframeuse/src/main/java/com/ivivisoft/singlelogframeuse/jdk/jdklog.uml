@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.ivivisoft.jlogdstu.jdk</OriginalElement>
+  <nodes>
+    <node x="129.625" y="0.0">java.util.logging.LogManager</node>
+    <node x="723.0" y="1404.0">com.ivivisoft.jlogdstu.jdk.JDKLog</node>
+    <node x="46.0" y="553.0">java.util.logging.Logger</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="427.0" y="-85.5" />
+  <SelectedNodes>
+    <node>java.util.logging.LogManager</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
